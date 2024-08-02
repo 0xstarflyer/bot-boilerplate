@@ -1,0 +1,4 @@
+py-cord>=2.6.0,<2.7.0  # https://github.com/Pycord-Development/pycord
+jishaku>=2.5.2,<2.6.0  # https://github.com/Gorialis/jishaku
+PyYAML>=6.0.1,<6.1.0  # https://github.com/yaml/pyyaml
+rich>=13.7.1,<13.8.0  # https://github.com/Textualize/rich
